@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/0x1Ox1d3/blog-preview-card-frontend-mentor)
-- Live Site URL: [Netlify Preview](blog-preview-card-front-end-mentor.netlify.app)
+- Live Site URL: [Netlify Preview](https://blog-preview-card-front-end-mentor.netlify.app)
 
 ## My process
 
