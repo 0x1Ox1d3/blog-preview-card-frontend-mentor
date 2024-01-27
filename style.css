@@ -62,6 +62,9 @@ body{
     margin: auto 0px;
 }
 
+.card:hover{
+    box-shadow: 15px 15px hsl(0, 0%, 7%);
+}
 .card h1:hover{
     color: hsl(47, 88%, 63%);
     cursor: pointer;
